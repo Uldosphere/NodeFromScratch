@@ -1,0 +1,5 @@
+body {
+  background: white; }
+
+:fullscreen a {
+  display: flex; }
